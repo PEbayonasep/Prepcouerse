@@ -1,2 +1,2 @@
 # Prepcouerse
-ejercicio repositorio en la nube
+ejercicio de clonar por pedro bayona
